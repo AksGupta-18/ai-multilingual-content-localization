@@ -4,6 +4,9 @@ A Streamlit-based MVP for engineering educational content localization. The appl
 
 ## Project Structure
 
+## Project Structure
+
+```text
 AI-Localization-Engine/
 ├── app.py
 ├── requirements.txt
@@ -17,6 +20,8 @@ AI-Localization-Engine/
 │   └── localization.py
 ├── uploads/
 └── outputs/
+```
+
 
 ## Features
 
