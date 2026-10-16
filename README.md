@@ -4,7 +4,6 @@ A Streamlit-based MVP for engineering educational content localization. The appl
 
 ## Project Structure
 
-## Project Structure
 
 ```text
 AI-Localization-Engine/
